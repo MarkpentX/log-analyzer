@@ -1,0 +1,6 @@
+2026-05-19 10:00:01 [INFO] Server started
+2026-05-19 10:00:03 [INFO] Listening on port 8080
+2026-05-19 10:01:10 [WARN] High memory usage: 75%
+2026-05-19 10:02:05 [ERROR] Database connection failed
+2026-05-19 10:02:10 [INFO] Retrying connection
+2026-05-19 10:02:12 [ERROR] Database connection failed again
